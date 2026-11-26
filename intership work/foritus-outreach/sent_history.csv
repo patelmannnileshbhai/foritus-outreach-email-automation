@@ -1,0 +1,4 @@
+timestamp,recipient,subject,status,detail
+2026-11-25T21:09:21,kushalbamania7@gmail.com,Test Email From Automation Script,FAILED,SMTPServerDisconnected: please run connect() first
+2026-11-25T21:10:03,kushalbamania7@gmail.com,Test Email From Automation Script,FAILED,SMTPServerDisconnected: please run connect() first
+2026-11-25T21:10:26,kushalbamania7@gmail.com,Test Email From Automation Script,FAILED,SMTPServerDisconnected: please run connect() first

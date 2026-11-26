@@ -1,0 +1,17 @@
+{
+  "name": "ForITus Solutions",
+  "one_liner": "IT, AI and automation partner for growing businesses",
+  "services": {
+    "ai_chatbot":   {"label": "AI customer-support & sales assistant", "short": "an AI assistant for customer questions"},
+    "ai_docs":      {"label": "AI document processing & data extraction", "short": "AI-based document processing"},
+    "ai_analytics": {"label": "Predictive analytics & AI insights", "short": "predictive analytics"},
+    "workflow_automation": {"label": "Workflow & process automation (n8n, RPA, API integrations)", "short": "workflow automation"},
+    "web_app":      {"label": "Custom web & mobile application development", "short": "custom web and mobile apps"},
+    "ecommerce":    {"label": "E-commerce build, optimisation & integrations", "short": "e-commerce optimisation"},
+    "cloud_devops": {"label": "Cloud migration & DevOps", "short": "cloud and DevOps"},
+    "data_dash":    {"label": "Data engineering & BI dashboards", "short": "reporting dashboards"},
+    "crm_erp":      {"label": "CRM / ERP integration & customisation", "short": "CRM and ERP integration"},
+    "it_support":   {"label": "Managed IT support & cybersecurity", "short": "managed IT support"}
+  },
+  "target_industries": ["ecommerce", "healthcare", "finance", "logistics", "real_estate", "education", "manufacturing", "professional_services", "saas"]
+}
